@@ -72,7 +72,7 @@
 
         <!-- Info text (child of the panel) -->
         <a-text
-          value="Product name\nTitle: ...\nDescription: ...\nKey fact: ..."
+          value="Miau Miau\nTitle: Miau Miau\nDescription: MiauMiau Miau Miau Miauuuu\nKey fact: Miau Miau"
           position="0.15 0.2 0.02"
           align="left"
           width="0.8"
